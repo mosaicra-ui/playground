@@ -1,0 +1,18 @@
+/* Custom styles for r5p7ott9foor7ll4sd9zbomdd3a4rq */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+.custom-button {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border: none;
+  border-radius: 8px;
+  padding: 12px 24px;
+  color: white;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.custom-button:hover {
+  transform: translateY(-2px);
+}
